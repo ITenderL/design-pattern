@@ -1,0 +1,14 @@
+package com.itender.abstractfactory.service.impl;
+
+import com.itender.abstractfactory.service.Shape;
+
+/**
+ * @author yuan
+ * @create 2021-09-28 17:07
+ */
+public class Square implements Shape {
+    @Override
+    public void draw() {
+        System.out.println("Hello I'm a Square;");
+    }
+}

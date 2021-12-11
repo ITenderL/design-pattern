@@ -1,0 +1,6 @@
+server:
+  port: 9008
+spring:
+  redis:
+    host: 139.9.37.101
+    password: yyP9lUkTOHiy3quI
