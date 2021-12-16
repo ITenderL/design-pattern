@@ -15,6 +15,7 @@
         <module>single</module>
         <module>jetCache</module>
         <module>jetcache_demo</module>
+        <module>proxy</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
