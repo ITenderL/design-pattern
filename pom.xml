@@ -13,8 +13,6 @@
         <module>factory</module>
         <module>abstractfactory</module>
         <module>single</module>
-        <module>jetCache</module>
-        <module>jetcache_demo</module>
         <module>proxy</module>
     </modules>
     <parent>
