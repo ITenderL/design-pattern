@@ -9,6 +9,7 @@ public class Adapter extends Adaptee implements Target{
 
     @Override
     public void request() {
+        // 调用父类的特殊处理方法
         super.specificRequest();
     }
 }
